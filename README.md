@@ -14,7 +14,3 @@ LinkedIn email
 💻 Tech Stack:
 JavaScript HTML5 Java C++ Python
 
-📊 GitHub Stats:
-
-
-<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/a7d40ff1-ee4d-4204-b4df-fc5d03ca703f" />
