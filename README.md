@@ -9,7 +9,8 @@ I’m constantly exploring ways to automate workflows and improve efficiency
 I believe a balance between tech, gaming, and sports keeps me at my best
 
 🌐 Socials:
-LinkedIn email
+LinkedIn: linkedin.com/in/ethanjvaz/
+email: ethan.vaz@outlook.com
 
 💻 Tech Stack:
 JavaScript HTML5 Java C++ Python
